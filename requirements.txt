@@ -1,0 +1,7 @@
+selenium
+Pillow
+ddddocr
+requests
+prettytable
+pyfiglet
+pyinstaller
